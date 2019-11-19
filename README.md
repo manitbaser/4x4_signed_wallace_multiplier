@@ -1,2 +1,1 @@
-# 4x4_signed_wallace_multiplier
-4x4 signed Wallace Multiplier
+The project has been done in verilog and the simulation was performed in Scansion. 
